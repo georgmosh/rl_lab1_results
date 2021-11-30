@@ -1,3 +1,3 @@
 Minotaur vs Theseus - Labyrinth
 
-![](minotaur.jpeg)
+![](minotaur.png)
