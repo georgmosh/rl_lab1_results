@@ -1,3 +1,3 @@
-Minotaur vs Theseus - Labyrinth
+Minotaur vs Theseus - Labyrinth of Crete
 
 ![](minotaur.png)
